@@ -1,7 +1,7 @@
-### Hi there 
+### Hi there! 🍍🍄🔥🦖🌈✌️�🧙‍♀️🦈
 
 - 🍎 I’m a student at App Academy
-- 🌱 I’m currently learning JavaScript!
+- 🌱 I’m currently learning JavaScript
 - 💻 How to reach me: ms.marafinkel@gmail.com
 - 💖 Pronouns: she/her
 
