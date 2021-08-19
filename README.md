@@ -1,7 +1,7 @@
 ### Hi there! 🍍🍄🔥🦖🌈🧙‍♀️🦈
 
-- 🍎 I’m a student at App Academy
-- 🌱 I’m currently learning MERN
+- 🍎 Software Engineer proficient in JavaScript, HTML/CSS, Ruby on Rails, React, and Redux.
+- 🌱 Seeking new challenges!
 - 💻 How to reach me: ms.marafinkel@gmail.com
 - 💖 Pronouns: she/her
 
