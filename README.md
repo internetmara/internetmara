@@ -9,7 +9,7 @@ I have recently finished my curriculum at App Academy, a highly selective and im
 When I'm not coding, I like to read graphic novels, create art, and play D&D with my friends. I've found passion in coding and I'm currently trying to learn Python outside of the curriculum I learned from App Academy.
 
 ### 🌙  Currently
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/76984497/135173191-3ba362e1-e95f-44d2-aa3b-d9501019015d.jpg" width="450" height="300" />
+<img align="right" alt="shihtzu" src="https://user-images.githubusercontent.com/76984497/135173191-3ba362e1-e95f-44d2-aa3b-d9501019015d.jpg" width="450" height="300" />
 
 - 💻  Working on: [ HashMaps ](https://hash-maps.herokuapp.com/) ( My full-stack project )
 - 📚  Learning:  Python
