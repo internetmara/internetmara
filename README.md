@@ -34,7 +34,7 @@ When I'm not coding, I like to read graphic novels, create art, and play D&D wit
 <br />
 <br />
 ### 👾  &nbsp;&nbsp;Coding Languages & Tools
-  
+<div align="center">
 <img align="left" alt="Ruby" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" />
 
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -56,7 +56,7 @@ When I'm not coding, I like to read graphic novels, create art, and play D&D wit
 <img align='left' alt='ruby-rails' height='40px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/ruby-on-rails-icon.png?raw=true" />
 
 <img align='left' alt='AWS' height='40px' src="https://github.com/jangcla/github-profile/blob/main/profile-photos/aws.png?raw=true" />
- 
+</div>
  <br />
  <br />
 
