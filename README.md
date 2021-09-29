@@ -16,8 +16,8 @@ When I'm not coding, I like to read graphic novels, create art, and play D&D wit
 - 🌎  Year Goals:  Explore the tech industry!
 - 💖  Pronouns: she/her
 
-<div align="center">### 🔗  &nbsp;&nbsp;Connect with me
-  <br/>
+### 🔗  &nbsp;&nbsp;Connect with me
+
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/marafinkel">
   <img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -32,7 +32,7 @@ When I'm not coding, I like to read graphic novels, create art, and play D&D wit
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ms.marafinkel@gmail.com
 <br />
-<br /></div>
+<br />
 ### 👾  &nbsp;&nbsp;Coding Languages & Tools
   
 <img align="left" alt="Ruby" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" />
