@@ -29,7 +29,7 @@ When I'm not coding, I like to read graphic novels, create art, and play D&D wit
   <img width="40px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
 </a>
 <br />
-###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ms.marafinkel@gmail.com
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ms.marafinkel@gmail.com
 <br />
 <br />
 ### 👾  &nbsp;&nbsp;Coding Languages & Tools
