@@ -7,16 +7,17 @@ I am a Software Engineer with experience building web applications using React, 
 I have recently finished my curriculum at App Academy, a highly selective and immersive Software Engineering Bootcamp in San Francisco, where I spent 100+ hour weeks learning and developing my skills.
 
 When I'm not coding, I like to read graphic novels, create art, and play D&D with my friends. I've found passion in coding and I'm currently trying to learn Python outside of the curriculum I learned from App Academy.
-
-### 🌙  &nbsp;&nbsp;Currently
-<img align="right" alt="shihtzu" src="https://user-images.githubusercontent.com/76984497/135173191-3ba362e1-e95f-44d2-aa3b-d9501019015d.jpg" width="450" height="300" />
+<br/>
+<br/>
+### 🌙  &nbsp;&nbsp;Currently <img align="right" alt="shihtzu" src="https://user-images.githubusercontent.com/76984497/135173191-3ba362e1-e95f-44d2-aa3b-d9501019015d.jpg" width="450" height="300" />
 
 - 💻  Working on: [ HashMaps ](https://hash-maps.herokuapp.com/) ( My full-stack project )
 - 📚  Learning:  Python
 - 🌎  Year Goals:  Explore the tech industry!
 - 💖  Pronouns: she/her
 
-### 🔗  &nbsp;&nbsp;Connect with me
+<div align="center">### 🔗  &nbsp;&nbsp;Connect with me
+  <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/marafinkel">
   <img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -31,7 +32,7 @@ When I'm not coding, I like to read graphic novels, create art, and play D&D wit
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ms.marafinkel@gmail.com
 <br />
-<br />
+<br /></div>
 ### 👾  &nbsp;&nbsp;Coding Languages & Tools
   
 <img align="left" alt="Ruby" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" />
