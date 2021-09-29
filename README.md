@@ -1,6 +1,6 @@
-<h1 align="center">🍍🍄🔥💖 Hi there, I'm Mara! 🦖🌈🧙‍♀️🦈</h1>
+<h1 align="center">🍍&nbsp;🍄&nbsp;🔥&nbsp;💖&nbsp;&nbsp;Hi there, I'm Mara!&nbsp;&nbsp;🦖&nbsp;🌈&nbsp;🧙‍&nbsp;🦈</h1>
 
-### 🍎  About me
+### 🍎  &nbsp;&nbsp;About me
 
 I am a Software Engineer with experience building web applications using React, Redux, Javascript, Ruby on Rails, AWS, Node.js, Express.js, MongoDB, and SQL.
 
@@ -8,7 +8,7 @@ I have recently finished my curriculum at App Academy, a highly selective and im
 
 When I'm not coding, I like to read graphic novels, create art, and play D&D with my friends. I've found passion in coding and I'm currently trying to learn Python outside of the curriculum I learned from App Academy.
 
-### 🌙  Currently
+### 🌙  &nbsp;&nbsp;Currently
 <img align="right" alt="shihtzu" src="https://user-images.githubusercontent.com/76984497/135173191-3ba362e1-e95f-44d2-aa3b-d9501019015d.jpg" width="450" height="300" />
 
 - 💻  Working on: [ HashMaps ](https://hash-maps.herokuapp.com/) ( My full-stack project )
@@ -16,19 +16,23 @@ When I'm not coding, I like to read graphic novels, create art, and play D&D wit
 - 🌎  Year Goals:  Explore the tech industry!
 - 💖  Pronouns: she/her
 
-### 🔗  Connect with me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/marafinkel">
+### 🔗  &nbsp;&nbsp;Connect with me
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/marafinkel">
   <img width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://internetmara.github.io/">
+  <img width="40px" src="https://user-images.githubusercontent.com/76984497/135199931-99adc5e8-45ff-47b2-9c2a-deaf28f6931f.png" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto: ms.marafinkel@gmail.com">
   <img width="40px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
 </a>
 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ms.marafinkel@gmail.com
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;ms.marafinkel@gmail.com
 <br />
-<br />
-### 👾  Coding Languages & Tools
+### 👾  &nbsp;&nbsp;Coding Languages & Tools
   
 <img align="left" alt="Ruby" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" />
 
@@ -55,7 +59,7 @@ When I'm not coding, I like to read graphic novels, create art, and play D&D wit
  <br />
  <br />
 
-### 📊  Github Status
+### 📊  &nbsp;&nbsp;Github Status
 
 <img align="left" height='165px' width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=internetmara&layout=compact&theme=midnight-purple" />
 
