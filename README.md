@@ -11,7 +11,7 @@ When I'm not coding, I like to read graphic novels, create art, and play D&D wit
 <br/>
 ### 🌙  &nbsp;&nbsp;Currently <img align="right" alt="shihtzu" src="https://user-images.githubusercontent.com/76984497/135173191-3ba362e1-e95f-44d2-aa3b-d9501019015d.jpg" width="450" height="300" />
 
-- 💻  Working on: [ HashMaps ](https://hash-maps.herokuapp.com/) ( My full-stack project )
+- 💻  Working on: [ HashMaps ](https://hash-maps.herokuapp.com/) (My full-stack project)
 - 📚  Learning:  Python
 - 🌎  Year Goals:  Explore the tech industry!
 - 💖  Pronouns: she/her
