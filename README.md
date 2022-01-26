@@ -2,18 +2,18 @@
 
 ### 🍎  &nbsp;&nbsp;About me
 
-I am a Software Engineer with experience building web applications using React, Redux, Javascript, Ruby on Rails, AWS, Node.js, Express.js, MongoDB, and SQL.
+I am a Software Engineer for [GreatSchools](https://www.greatschools.org/), an Oakland-based non-profit that supports parents pursuing a great education for their child. I have experience building web applications using React, Redux, Javascript, Ruby on Rails, AWS, Node.js, Express.js, MongoDB, and SQL.
 
-I have recently finished my curriculum at App Academy, a highly selective and immersive Software Engineering Bootcamp in San Francisco, where I spent 100+ hour weeks learning and developing my skills.
+In August 2021 I graduated from App Academy, a highly selective and immersive Software Engineering Bootcamp in San Francisco, where I spent 100+ hour weeks learning and developing my skills.
 
-When I'm not coding, I like to read graphic novels, create art, and play D&D with my friends. I've found passion in coding and I'm currently trying to learn Python outside of the curriculum I learned from App Academy.
+When I'm not coding, I like to read graphic novels, create art, and play D&D with my friends. I've found passion in coding and I'm currently trying to learn Python and Solidity.
 <br/>
 <br/>
 ### 🌙  &nbsp;&nbsp;Currently <img align="right" alt="shihtzu" src="https://user-images.githubusercontent.com/76984497/135173191-3ba362e1-e95f-44d2-aa3b-d9501019015d.jpg" width="450" height="300" />
 
-- 💻  Working on: [ HashMaps ](https://hash-maps.herokuapp.com/) (My full-stack project)
-- 📚  Learning:  Python
-- 🌎  Year Goals:  Explore the tech industry!
+- 💻  Working on: [ GreatSchools.org ](https://www.greatschools.org/)
+- 📚  Learning:  React & Rails
+- 🌎  Year Goals:  Explore the tech industry, take over the world!
 - 💖  Pronouns: she/her
 
 ### 🔗  &nbsp;&nbsp;Connect with me
