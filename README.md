@@ -12,7 +12,7 @@ When I'm not coding, I like to read graphic novels, create art, walk to the beac
 
 - 💻  Working on: [ GreatSchools.org ](https://www.greatschools.org/)
 - 📚  Learning:  React & Rails
-- 🌎  Year Goals:  Explore the tech industry, take over the world!
+- 🌎  Year Goals:  Stop identifying as a code n00b
 - 💖  Pronouns: she/her
 
 ### 🔗  &nbsp;&nbsp;Connect with me
