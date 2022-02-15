@@ -6,7 +6,8 @@ I am a Software Engineer for [GreatSchools](https://www.greatschools.org/), an O
 
 In August 2021 I graduated from App Academy, a highly selective and immersive Software Engineering Bootcamp in San Francisco, where I spent 100+ hour weeks learning and developing my skills.
 
-When I'm not coding, I like to read graphic novels, create art, and play D&D with my friends. I've found passion in coding and I'm currently trying to learn Python and Solidity.
+When I'm not coding, I like to read graphic novels, create art, walk to the beach, and play D&D with my friends.
+
 <br/>
 <br/>
 ### 🌙  &nbsp;&nbsp;Currently <img align="right" alt="shihtzu" src="https://user-images.githubusercontent.com/76984497/135173191-3ba362e1-e95f-44d2-aa3b-d9501019015d.jpg" width="450" height="300" />
