@@ -2,7 +2,7 @@
 
 ### 🍎  &nbsp;&nbsp;About me
 
-I am a Software Engineer for [GreatSchools](https://www.greatschools.org/), an Oakland-based non-profit that supports parents pursuing a great education for their child. I have experience building web applications using React, Redux, Javascript, Ruby on Rails, AWS, Node.js, Express.js, MongoDB, and SQL.
+I am a Software Engineer for [GreatSchools](https://www.greatschools.org/), an Oakland-based non-profit that supports parents pursuing a great education for their children. I have experience building web applications using React, Redux, Javascript, Ruby on Rails, AWS, Node.js, Express.js, MongoDB, and SQL.
 
 In August 2021 I graduated from App Academy, a highly selective and immersive Software Engineering Bootcamp in San Francisco, where I spent 100+ hour weeks learning and developing my skills.
 
