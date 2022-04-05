@@ -11,8 +11,8 @@ When I'm not coding, I like to read graphic novels, create art, walk to the beac
 ### 🌙  &nbsp;&nbsp;Currently <img align="right" alt="shihtzu" src="https://user-images.githubusercontent.com/76984497/135173191-3ba362e1-e95f-44d2-aa3b-d9501019015d.jpg" width="450" height="300" />
 
 - 💻  Working on: [ GreatSchools.org ](https://www.greatschools.org/)
-- 📚  Learning:  React & Rails
-- 🌎  Year Goals:  Stop identifying as a code n00b
+- 📚  Learning: React & Rails
+- 🌎  Year Goals: Expand my skills into new languages and technologies
 - 💖  Pronouns: she/her
 
 ### 🔗  &nbsp;&nbsp;Connect with me
